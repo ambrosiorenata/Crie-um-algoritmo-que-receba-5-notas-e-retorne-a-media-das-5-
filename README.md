@@ -1,0 +1,1 @@
+# Crie-um-algoritmo-que-receba-5-notas-e-retorne-a-media-das-5-
